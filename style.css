@@ -1,4 +1,22 @@
-body{
-color: azure;
-background-color: black;
+body {
+ background-color: black;
+ color: azure;
+ font-family: sans-serif;
+}
+
+header {
+    color:rgb(38, 128, 113);
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    padding-top: 50px;
 }
